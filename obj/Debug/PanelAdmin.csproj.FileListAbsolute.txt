@@ -73,4 +73,3 @@ C:\Users\oscar\source\repos\PanelAdmin\obj\Debug\PanelAdmin.csproj.CoreCompileIn
 C:\Users\oscar\source\repos\PanelAdmin\obj\Debug\PanelAdmin.csproj.CopyComplete
 C:\Users\oscar\source\repos\PanelAdmin\obj\Debug\PanelAdmin.dll
 C:\Users\oscar\source\repos\PanelAdmin\obj\Debug\PanelAdmin.pdb
-C:\Users\oscar\source\repos\PanelAdmin\obj\Debug\PanelAdmin.csprojAssemblyReference.cache
