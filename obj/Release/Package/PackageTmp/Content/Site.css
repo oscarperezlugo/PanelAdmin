@@ -214,5 +214,8 @@ input[type="file"] {
 .centrador{    
     text-align:center;
 }
+center a {
+    display: none;
+}
 
 
